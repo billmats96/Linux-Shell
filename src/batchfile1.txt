@@ -1,0 +1,7 @@
+echo Linux Ubuntu
+pwd
+ps
+touch hello
+ls -a; grep hello file && date
+quit
+

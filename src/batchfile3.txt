@@ -1,0 +1,7 @@
+echo Linux Ubuntu
+pwd
+touch hello
+quit
+echo 123456789 ; cat file 
+ls && date
+

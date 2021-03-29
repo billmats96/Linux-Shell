@@ -1,0 +1,9 @@
+echo OPERATING SYSTEMS
+ls ; foo && echo this won't execute
+
+
+
+
+date    ;    pwd
+ps && who
+
